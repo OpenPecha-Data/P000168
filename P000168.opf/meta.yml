@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །རྟེན་འབྲེལ་གྱི་སྙིང་པོ་རྣམ་པར་བཤད་པ་རྩ་བའི་མདོ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-13
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Finely Woven Explanation of the Essence of Dependent Origination
+    bo: རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་སྙིང་པོའི་རྣམ་པར་བཤད་པ་ཞིབ་མོ་རྣམ་པར་འཐག་པ་ཞེས་བྱ་བ་བཞུགས་སོ།
+      །
+  collection:
+    en: Pema Karpo Series–  Book 13
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༡༣
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-13
+  category:
+    en: Prajnaparamita
+    bo: ཤེས་ཕྱིན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-13.epub
+  description:
+    en: ''
+    bo: ''
