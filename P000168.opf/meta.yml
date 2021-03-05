@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000168
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྟེན་འབྲེལ་གྱི་སྙིང་པོ་རྣམ་པར་བཤད་པ་རྩ་བའི་མདོ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-13
   layers:
   - book_title
   - author
   - tsawa
   - quotation
   - sabche
+  id: KS-PK-13
 web_metadata:
   title:
     en: A Finely Woven Explanation of the Essence of Dependent Origination
